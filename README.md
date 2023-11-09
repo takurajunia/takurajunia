@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @takurajunia
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Zimbabwe
+- 🌱 I’m currently studying for a software engineering degree at the University of Zimbabwe
 - 💞️ I’m looking to collaborate on Software Development Projects
 - 📫 How to reach me takurajunia@gmail.com
 
